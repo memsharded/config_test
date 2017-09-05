@@ -1,0 +1,2 @@
+myrepo1 https://myrepourl.net False
+my-repo-2 https://myrepo2.com True

@@ -1,0 +1,4 @@
+os:
+    Windows:
+    Linux:
+arch: [x86, x86_64]
